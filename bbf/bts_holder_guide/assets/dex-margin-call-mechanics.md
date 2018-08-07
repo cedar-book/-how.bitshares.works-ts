@@ -3,14 +3,14 @@
 
 #### Table of Contents:
 - [Margin Call Mechanics](../assets/dex-margin-call-mechanics.md#margin-call-mechanics)
-  - [What is a margin call?](../assets/dex-margin-call-mechanics.md#
-  - [How is the call price calculated?](../assets/dex-margin-call-mechanics.md#
-  - [How is the collateral ratio (CR) calculated?](../assets/dex-margin-call-mechanics.md#
-- [Execution Conditions](../assets/dex-margin-call-mechanics.md#
-  - [When will a margin call happen?](../assets/dex-margin-call-mechanics.md#
-- [Discussion](../assets/dex-margin-call-mechanics.md#
-  - [At what price will the margin call execute?](../assets/dex-margin-call-mechanics.md#
-  - [Margin calls only execute in the range (Call Price - SQPP)](../assets/dex-margin-call-mechanics.md#
+  - [What is a margin call?](../assets/dex-margin-call-mechanics.md#hwhat-is-a-margin-call)
+  - [How is the call price calculated?](../assets/dex-margin-call-mechanics.md#how-is-the-call-price-calculated)
+  - [How is the collateral ratio (CR) calculated?](../assets/dex-margin-call-mechanics.md#how-is-the-collateral-ratio-cr-calculated)
+- [Execution Conditions](../assets/dex-margin-call-mechanics.md#execution-conditions)
+  - [When will a margin call happen?](../assets/dex-margin-call-mechanics.md#when-will-a-margin-call-happen)
+- [Discussion](../assets/dex-margin-call-mechanics.md#discussion)
+  - [At what price will the margin call execute?](../assets/dex-margin-call-mechanics.md#at-what-price-will-the-margin-call-execute)
+  - [Margin calls only execute in the range (Call Price - SQPP)](../assets/dex-margin-call-mechanics.md#margin-calls-only-execute-in-the-range-call-price---sqpp)
   
   
 ***
