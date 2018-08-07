@@ -1,10 +1,10 @@
 ## User Guide
 
 ### [BitShares Accounts](../user_guide/accounts#bitshares-accounts)
-- [Accounts](../user_guide/accounts/bts_account.md#bitshares-accounts)
-- [Memberships and Groups](../user_guide/accounts/memberships.md#memberships-and-groups)
-- [Fees](../user_guide/accounts/bts_fees.md#fees)
-- [Vesting Balances](../user_guide/accounts/vesting-balance.md#vesting-balances)
+- [Accounts](../user_guide/accounts/README.md#account)
+- [Memberships and Groups](../user_guide/accounts/README.md#memberships-and-groups)
+- [Fees](../user_guide/accounts/README.md#fees)
+- [Vesting Balances](../user_guide/accounts/README.md#vesting-balances)
 - [Permissions](../user_guide/accounts/permissions.md#permissions)
 - [Referral Program](../user_guide/accounts/referral-program.md#referral-program)
 - [Voting](../user_guide/accounts/voting-bh.md#voting)
