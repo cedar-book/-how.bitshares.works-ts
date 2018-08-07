@@ -4,7 +4,7 @@ Freely traded tokens created by individuals used for a variety of use-cases, suc
 
 #### Table of Contents:
 - [Create Asset Feature](../assets/uia.md#create-asset-feature)
-- View existing Asset
+- [View existing Asset](../assets/uia.md#view-existing-asset)
 
 ***
 
