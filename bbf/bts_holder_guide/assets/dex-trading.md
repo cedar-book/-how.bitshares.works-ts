@@ -3,9 +3,9 @@
 This page will give a very quick introduction on how to interpret the terms used by the DEX and how trading pairs are presented.
 
 #### Table of Contents:
-- [Pairs](../../bts_holder_guide/assets/dex-trading.md#pairs)
-- [Market Overview](../../bts_holder_guide/assets/dex-trading.md#market-overview)
-- [Market](../../bts_holder_guide/assets/dex-trading.md#market)
+- [Pairs](../dex-trading.md#pairs)
+- [Market Overview](../dex-trading.md#market-overview)
+- [Market](../dex-trading.md#market)
 - [Order Books](../../bts_holder_guide/assets/dex-trading.md#order-books)
 - [Trading](../../bts_holder_guide/assets/dex-trading.md#trading)
 - [Order Matching](../../bts_holder_guide/assets/dex-trading.md#order-matching)
