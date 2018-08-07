@@ -2,12 +2,12 @@
 ## The Beginning of BitShares
 
 #### Table of Contents:
-  - Supply
-  - Working Budget
-  - Block Production (Witnesses)
-  - Project Funding (Workers)
-  - Transaction Fees & Fee Schedule
-  - Legality of the BTS token
+  - [Supply](../bts_holder_guide/initial-allocation.md#supply)
+  - [Working Budget](../bts_holder_guide/initial-allocation.md#working-budget)
+  - [Block Production (Witnesses)](../bts_holder_guide/initial-allocation.md#project-funding-workers)
+  - [Project Funding (Workers)](../bts_holder_guide/initial-allocation.md#project-funding-workers)
+  - [Transaction Fees & Fee Schedule](../bts_holder_guide/initial-allocation.md#transaction-fees--fee-schedule)
+  - [Legality of the BTS token](../bts_holder_guide/initial-allocation.md#legality-of-the-bts-token)
   
 ***
 
