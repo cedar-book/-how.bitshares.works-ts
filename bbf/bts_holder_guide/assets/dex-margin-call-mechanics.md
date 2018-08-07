@@ -10,13 +10,13 @@
 The mechanics of a margin call in Bitshares are currently poorly understood, so I’d like to try to clarify a little by using examples from the USD:BTS market. I think part of the current confusion lies in people talking about the same market but using different market directions, ie. USD:BTS or BTS:USD, so terms like above/below don’t mean the same thing to different people. I will only use USD in these examples, but USD can be replaced by any bit asset in this context. I prefer to use the USD:BTS market direction, so these examples will have prices in BTS/USD.
 
 
-#### What is a margin call?
+### What is a margin call?
 
 A margin call is the market forcing you to sell your collateral in order to buy enough USD to close your position. In the USD:BTS market a margin call is equivalent to a bid: it is an order to buy USD for BTS.
 
 A margin call will happen because the price has increased to the point where your collateral is insufficient with respect to the current collateral requirements of the Bitshares market rules. The required collateral is a tuneable parameter in Bitshares, set by the maintenance collateral ratio (MCR) which is maintained by the feed producers (ie. the witnesses).
 
-#### How is the call price calculated?
+### How is the call price calculated?
 
 As mentioned above the call price of a margin position depends on the MCR and the amount of debt and collateral in your position. It is independent of the price feed (settlement price). As an example, say you have opened the following position:
 
@@ -26,7 +26,7 @@ As mentioned above the call price of a margin position depends on the MCR and th
 
 The call price of your position is 10000 BTS / (10 * 1.75 USD) =  571.429 BTS/USD.
 
-#### How is the collateral ratio (CR) calculated?
+### How is the collateral ratio (CR) calculated?
 
 The collateral ratio depends on the feed price (settlement price). Taking a feed price of 300 BTS/USD and building on the above example with 10 USD debt and 10000 BTS collateral:
 
