@@ -10,9 +10,7 @@ BitShares Blockchain and make it easier for users and developers to
 leverage the full power of the BitShares Blockchain.
 
 
-<p align="center">
-  <img src="/bbf/bitshares-logo.png" width="120" title="BitSfates">
-</p>
+![BitShares](bbf/images/bitshares-logo.png)	   
 
 ### Quick Start
 
