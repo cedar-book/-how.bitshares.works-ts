@@ -3,10 +3,10 @@
 A prediction market is similar to a MPA, that trades between 0 and 1, only. After an event, a price feed can be used to determine which option to take and participants can settle at this price.
 
 #### Table of Contents:
-- Creation
-- Betting
-- Resolving
--   View existing Asset
+- [Creation](../assets/prediction_market_asset.md#creation)
+- [Betting](../assets/prediction_market_asset.md#betting)
+- [Resolving](../assets/prediction_market_asset.md#resolving)
+- [View existing Asset](../assets/prediction_market_asset.md#view-existing-asset)
 
 ***
 

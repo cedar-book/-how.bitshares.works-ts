@@ -3,12 +3,12 @@
 This page will give a very quick introduction on how to interpret the terms used by the DEX and how trading pairs are presented.
 
 #### Table of Contents:
-- Pairs
-- Market Overview
-- Market
-- Order Books
-- Trading
-- Order Matching
+- [Pairs](../assets/dex-trading.md#pairs)
+- [Market Overview](../assets/dex-trading.md#market-overview)
+- [Market](../assets/dex-trading.md#market)
+- [Order Books](../assets/dex-trading.md#order-books)
+- [Trading](../assets/dex-trading.md#trading)
+- [Order Matching](../assets/dex-trading.md#order-matching)
 
 ***
 
