@@ -130,7 +130,7 @@ Margin Call Buy Region
 The margin called order will buy any USD priced in the range 325-360 BTS/USD. The squeeze protection price acts as a price ceiling, meaning the forced margin order will not execute at a very high price in an illiquid market: it is protected from high prices by the SQPR.
 
 	
-### Margin calls only execute in the range [Call Price - SQPP]
+### Margin calls only execute in the range (Call Price - SQPP)
 
 A margin call will occur any time the lowest ask is higher than the call price and lower than the SQPP. This has several consequences, as we will see below. It can create some very strange situations, and also force the margin called orders to “buy high”.
 
