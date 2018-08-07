@@ -67,25 +67,12 @@ This is much safer, there is a bit of margin for the position to be closed befor
 
 The remaining question then is, at what point should we force the position to attempt to close itself? This is where the SQPR comes in. Let’s look at two scenarios, SQPR of `1.1` and SQPR of `1.5`:
 
-
-** SQPR of `1.1` **
-
-- Settlement price: `300 BTS/USD`
-- SQPR: `1.1`
-- Squeeze Protection Price (SQPP): `330 BTS/USD`
-
-In this case, any margin position that has a call price below `330 BTS/USD` will be forced to settle, and therefore be added to the orderbook as an order to buy USD for BTS.
-
-** SQPR of `1.5` **
-
-- Settlement price: `300 BTS/USD`
-- SQPR: `1.5`
-- Squeeze Protection Price (SQPP): `450 BTS/USD`
-
-In this case, any margin position that has a call price below `450 BTS/USD` will be forced to settle, and therefore be added to the orderbook as an order to buy USD for BTS.
+|   |  |
+|:---|:---|
+| ** SQPR of `1.1` ** | ** SQPR of `1.5` **  |
+| - Settlement price: `300 BTS/USD` <br/> - SQPR: `1.1` <br /> - Squeeze Protection Price (SQPP): `330 BTS/USD`   | - Settlement price: `300 BTS/USD` <br/> - SQPR: `1.5` <br /> - Squeeze Protection Price (SQPP): `450 BTS/USD`   |
+| In this case, any margin position that has a call price below `330 BTS/USD` will be forced to settle, and therefore be added to the orderbook as an order to buy USD for BTS. | In this case, any margin position that has a call price below `450 BTS/USD` will be forced to settle, and therefore be added to the orderbook as an order to buy USD for BTS. |
 	
-
-
 ## Discussion
 
 Another way of looking at this is by looking at the Collateral Ratio of the position. If we want to stay at or above the squeeze protection price, what is the required collateral ratio? Let’s do the math:
