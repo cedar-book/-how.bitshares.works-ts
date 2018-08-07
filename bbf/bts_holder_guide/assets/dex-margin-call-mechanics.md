@@ -114,6 +114,9 @@ From what we’ve seen above, it’s clear that this position should be margin c
 It will therefore get added to the order book as a bid to buy USD like this:
 Margin Call Buy Region
 
+![BitShares](../../images/margin-buyregion.png)
+
+
 The margin called order will buy any USD priced in the range `325-360 BTS/USD`. The squeeze protection price acts as a price ceiling, meaning the forced margin order will not execute at a very high price in an illiquid market: it is protected from high prices by the SQPR.
 
 	
@@ -129,11 +132,18 @@ Asks below the call price prevent margin calls from executing
 Because margin calls only execute in the range Call Price - SQPP, if there is a sell order for `5 USD` at `315 BTS/USD` in this market, the call order will not use it, which makes the market look like this:
 Margin Calls can't buy cheap
 
+
+![BitShares](../../images/margin-not-cheap-2.png)
+
 If a second sell order of `2.5 USD` were added at `345 BTS/USD`, the margin called order would still not buy any USD because of the “blocking” sell order at `315 BTS/USD`:
  Margin Calls can't buy cheap
+ 
+ ![BitShares](../../images/margin-not-cheap.png)
 
 If the order at `315 BTS/USD` were to be removed, either from being canceled or from being filled, the order at `345 BTS/USD` would instantly get filled by the margin called order, and the margin called position would have a reduced debt of `10 - 2.5 = 7.5` USD:
 Margin Call executes
+
+![BitShares](../../images/margin-execute.png)
 
 #### Consequence #2:
 
