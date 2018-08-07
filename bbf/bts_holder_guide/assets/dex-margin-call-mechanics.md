@@ -41,9 +41,9 @@ The collateral ratio depends on the feed price (settlement price). Taking a feed
 - CR: (10000 BTS / 300 BTS/USD) / 10 USD = 3.33
 
 
-### Execution Conditions
+## Execution Conditions
 
-#### When will a margin call happen?
+### When will a margin call happen?
 
 This is where it gets complicated. Margin Call are only possible if the feed price is below your call price. A margin call will happen whenever the squeeze protection price goes above the call price of your position. To better understand how this works, let’s go back to our margin position and look at collateral ratios:
 
@@ -86,7 +86,7 @@ In this case, any margin position that has a call price below 450 BTS/USD will b
 	
 
 
-### Discussion
+## Discussion
 
 Another way of looking at this is by looking at the Collateral Ratio of the position. If we want to stay at or above the squeeze protection price, what is the required collateral ratio? Let’s do the math:
 
