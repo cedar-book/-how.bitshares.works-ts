@@ -42,7 +42,8 @@ Go to **[Explore]** - **[Asset]** - **[SmartCoins]**
 <p align="center">
   <img src="/bbf/images/mpa-ui.png" width="600" title="view Asset">
 </p>
-	   
+
+![BitShares](../../images/mpa-ui.png)	   
 		
 ### SmartCoins
 
