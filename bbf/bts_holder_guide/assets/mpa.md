@@ -3,11 +3,11 @@
 These SmartCoins track the value of an underlaying asset, such as Gold, or U.S. Dollar. Smartcoins can be created by anyone contracting with the BitShares ecosystem and putting sufficient BTS (at least 175%) into the so called collateralized loans as collateral.
 
 #### Table of Contents:
-- View existing Asset
-- SmartCoins
-- Introducing SmartCoins
-- Collateralized Tokens
-- Market Mechanics
+- [View existing Asset](../assets/mpa.md#view-existing-asset)
+- [SmartCoins](../assets/mpa.md#smartcoins)
+- [Introducing SmartCoins](../assets/mpa.md#introducing-smartcoins)
+- [Collateralized Tokens](../assets/mpa.md#collateralized-tokens)
+- [Market Mechanics](../assets/mpa.md#market-mechanics)
 
 ***
 
