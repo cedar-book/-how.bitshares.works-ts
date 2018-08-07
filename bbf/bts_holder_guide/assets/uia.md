@@ -3,7 +3,7 @@
 Freely traded tokens created by individuals used for a variety of use-cases, such as stock, miles, event tickets or reputation points.
 
 #### Table of Contents:
-- Create Asset Feature
+- [Create Asset Feature](../assets/uia.md#create-asset-feature)
 - View existing Asset
 
 ***
