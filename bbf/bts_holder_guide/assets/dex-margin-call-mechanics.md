@@ -2,9 +2,17 @@
 ## Margin Call Mechanics
 
 #### Table of Contents:
+- Margin Call Mechanics
+  - What is a margin call?
+  - How is the call price calculated?
+  - How is the collateral ratio (CR) calculated?
 - Execution Conditions
+  - When will a margin call happen?
 - Discussion
-
+  - At what price will the margin call execute?
+  - Margin calls only execute in the range (Call Price - SQPP)
+  
+  
 ***
 
 The mechanics of a margin call in Bitshares are currently poorly understood, so I’d like to try to clarify a little by using examples from the USD:BTS market. I think part of the current confusion lies in people talking about the same market but using different market directions, ie. USD:BTS or BTS:USD, so terms like above/below don’t mean the same thing to different people. I will only use USD in these examples, but USD can be replaced by any bit asset in this context. I prefer to use the USD:BTS market direction, so these examples will have prices in BTS/USD.
