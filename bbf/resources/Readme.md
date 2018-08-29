@@ -70,4 +70,9 @@
 - [BitShares: Rough guide to the DAC - Part 1: Committee Members and Governance (12/2017)](https://steemit.com/bitshares/@apasia.tech/bitshares-rough-guide-to-the-dac-part-1-committee-members-and-governance) by @apasia.tech
 - [BitShares How-to Tutorial Video 1 - Setting up a Wallet on the BitShares DEX (01-2018)](https://steemit.com/bitshares/@tonypeacock/bitshares-how-to-tutorial-video-1-setting-up-a-wallet-on-the-bitshares-dex) by @tonypeacock
 - [What is BitShares in 35 Seconds (12/2017)](https://steemit.com/bitshares/@tonypeacock/what-is-bitshares-in-35-seconds) by @tonypeacock
+
+***
+
+- [Glossary](../glossary/glossary.md#glossary)
+
 ***

@@ -3,12 +3,12 @@
 In order to increase your exposure to BTS and offer liquidity to BitAssets, such as USD, EUR, GOLD, etc., you can go borrow this bitAsset from the network and sell it short. We will here briefly describe the procedure.
 
 #### Table of Contents:
-- Borrowing
-- Margin Call
-- Settlement
-- Updating Collateral Ratio
-- Covering
-- Discussion
+- [Borrowing](../assets/dex-short-selling-bitassets.md#borrowing)
+- [Margin Call](../assets/dex-short-selling-bitassets.md#margin-call)
+- [Settlement](../assets/dex-short-selling-bitassets.md#settlement)
+- [Updating Collateral Ratio](../assets/dex-short-selling-bitassets.md#updating-collateral-ratio)
+- [Covering](../assets/dex-short-selling-bitassets.md#covering)
+- [Discussion](../assets/dex-short-selling-bitassets.md#discussion)
 
 ***
 

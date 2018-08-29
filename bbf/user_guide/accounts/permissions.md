@@ -1,12 +1,12 @@
 ## Permissions
 #### Table of Contents:
 
-- [Permissions - in Wallet Settings](/bbf/user_guide/permissions.md#permissions---in-wallet-settings)
-  - [Permissions Tabs](/bbf/user_guide/permissions.md#permissions-tabs)
-- [Public Key and Private Key](/bbf/user_guide/permissions.md#public-key-and-private-key)
-  - [Where are public/private keys? ](/bbf/user_guide/permissions.md#where-are-publicprivate-keys)
-  - [How to find each private key](/bbf/user_guide/permissions.md#how-to-find-each-private-key)
-  - [How to change Cloud wallet password](/bbf/user_guide/permissions.md#how-to-change-cloud-wallet-password)
+- [Permissions - in Wallet Settings](../user_guide/permissions.md#permissions---in-wallet-settings)
+  - [Permissions Tabs](../user_guide/permissions.md#permissions-tabs)
+- [Public Key and Private Key](../user_guide/permissions.md#public-key-and-private-key)
+  - [Where are public/private keys? ](../user_guide/permissions.md#where-are-publicprivate-keys)
+  - [How to find each private key](../user_guide/permissions.md#how-to-find-each-private-key)
+  - [How to change Cloud wallet password](../user_guide/permissions.md#how-to-change-cloud-wallet-password)
 
 ***
 In BitShares, each account is separated into

@@ -3,9 +3,9 @@
 ## The Governance of BitShares
 
 #### Table of Contents:
-  - Members for Block Production (Witnesses)
-  - Members for Blockchain Governance (Committee)
-  - Project Funding (Workers)
+  - [Members for Block Production (Witnesses)](../bts_holder_guide/governance.md#members-for-block-production-witnesses)
+  - [Members for Blockchain Governance (Committee)](../bts_holder_guide/governance.md#members-for-blockchain-governance-committee)
+  - [Project Funding (Workers)](../bts_holder_guide/governance.md#project-funding-workers)
 
 ***
 
