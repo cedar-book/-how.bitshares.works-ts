@@ -1,6 +1,6 @@
 
 *****************************
-BitShares Wallet Features
+xx-BitShares Wallet Features
 *****************************
 
 .. contents:: Table of Contents

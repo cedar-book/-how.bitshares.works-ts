@@ -112,6 +112,8 @@ Fees types
 
 .. include:: bts_permissions.rst 
 
+.. include:: bts_multi-sign.rst 
+		
 .. include:: voting.rst  
 
 .. include:: referral.rst  
